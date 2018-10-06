@@ -1,0 +1,18 @@
+.image-container{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+app-post {
+  margin: 10px;
+}
+
+.button{
+  margin-left:170px;
+  background-color:#154360;
+  color:white;
+  font-family: Tahoma;
+  font-size:18px;
+}

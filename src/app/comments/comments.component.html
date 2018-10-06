@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8">
+
+      <div class="form-group">
+        <label for="name">Enter your comment:</label>
+        <input type="text" class="form-control" id="name"
+               [(ngModel)]="cmmnt" name="name">
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <input type="submit" (click)="onCommentSelection()" placeholder="Upload a file" accept=".png, .jpeg, .jpg">
+        </div>
+      </div>
+
+      <div *ngFor="let arr of refArray">
+           <!-- <p>{{ arr }}</p>-->
+      </div>
+
+    </div>
+  </div>
+</div>

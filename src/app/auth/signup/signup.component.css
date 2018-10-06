@@ -1,0 +1,25 @@
+.container{
+  height: 100%;
+  margin-top:10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input{
+  width:400px;
+}
+
+label{
+  color:#154360;
+  font-family: Tahoma;
+  font-size:18px;
+}
+
+button{
+  margin-left:170px;
+  background-color:#154360;
+  color:white;
+  font-family: Tahoma;
+  font-size:18px;
+}
