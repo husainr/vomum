@@ -1,18 +1,49 @@
 # Vomum
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+The project aims at putting forth a software solution to empower people to present the problems faced by them in their daily lives in front of other people, sothaat something can be done about it.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Prerequisites
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+What things you need to install the software and how to install them
+```
+Node.js
+Firebase Credentials
+Ide 
+Tableau
+
+```
+
+## Installing
+
+To install Angular4+
+```
+npm install -g @angular/cli
+```
+
+Then to create a new project
+```
+ng new my-dream-app
+```
+
+Now install the package by running the following commands 
+```
+npm install --save bootstrap@3
+
+npm install --save jquery
+
+npm install --save firebase@4.3.0
+```
+
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+* [Angular](https://angular.io/docs) - The web framework used
+* [Nodejs](https://nodejs.org/en/docs/) - Dependency Management
+* [Firebase](https://firebase.google.com/docs/) - Used for data storage
 
 ## Running unit tests
 
@@ -22,6 +53,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Authors
+* **Hussain Ratlamwala** - *Frontend and Backend* - [husainr0](https://github.com/husainr)
+* **Rishi Ghai** - *Frontend and Backend* - [rishighai97](https://github.com/rishighai97)
+* **Dhrumil Mehta** - *Data visualization and tableau*
