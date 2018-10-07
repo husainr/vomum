@@ -56,4 +56,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Authors
 * **Hussain Ratlamwala** - *Frontend and Backend* - [husainr0](https://github.com/husainr)
 * **Rishi Ghai** - *Frontend and Backend* - [rishighai97](https://github.com/rishighai97)
-* **Dhrumil Mehta** - *Data visualization and tableau*
+* **Dhrumil Mehta** - *Data visualization using tableau & map integration* - [mdhrumil](https://github.com/mdhrumil)
